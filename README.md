@@ -13,9 +13,5 @@ Sends message to the console window, prefaced by a warning symbol. Objects that 
  
  `console.warn("warning message");` 
  
- ![Image of Warning Console ](https://octodex.github.com/images/yaktocat.png)
+ ![Image of Warning Console ](https://github.com/dipikam86/AdvanceJSLogging/blob/master/images/warn.png)
  
-
-
-
-
