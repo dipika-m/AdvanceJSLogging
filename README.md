@@ -56,14 +56,14 @@ Sends message to the console window.
 var employee = { name: "Dipika", id: 5 };
 console.log(employee);
 ```
- #### Nested Object
+#### Nested Object
  the console window also accepted nested objects and displays it in an object visualizer. You can use the visualizer to inspect properties in the console window.
  
 ```
 var employee = { name: "Dipika", id: 5, address: { line_1: "Mainstreet", City: "Tarrytown", State: "NY"} };
 console.log(employee);
 ```
- #### Multiple Object
+#### Multiple Object
  the console window also accepted nested objects and displays it in an object visualizer. You can use the visualizer to inspect properties in the console window.
  
 ```
