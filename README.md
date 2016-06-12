@@ -20,18 +20,18 @@ Sends message to the console window. The message is prefaced by an information s
  
  `console.info("This is info !");` 
  
- ### Debug
+### Debug
 Sends message to the console window, prefaced by a warning symbol. Objects that are passed by using the command are converted to a string value.
  
  `console.debug("This is debug !");` 
  
-  ### Error
+### Error
 Sends message to the console window. The message text is red and prefaced by an error symbol.
 Objects that are passed by using the command are converted to a string value.  The stack trace is built in here so that you can easily step through and see where it came from.
  
  `console.error("This is error !");` 
  
-  ### Log
+### Log
 Sends message to the console window.
  
  `console.log("Hello World");` 
@@ -46,9 +46,9 @@ Sends message to the console window.
  
  `console.log("This", "is", "test", "message");`
  
- ### Object
+### Object
  
- #### Single Object
+#### Single Object
  You can not only send string but you can send any object to the console. 
  If you pass an object,  the console window displays it in an object visualizer. You can use the visualizer to inspect properties in the console window.
  
